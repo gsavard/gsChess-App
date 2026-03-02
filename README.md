@@ -10,3 +10,4 @@ Fonctionnalités du jeu :
   - Joueur contre ordinateur
     - Cinq niveaux de difficulté
     - Fonction de retour arrière
+<img width="1832" height="1180" alt="Copie d&#39;écran_20260302_110953" src="https://github.com/user-attachments/assets/4ea7896e-19d4-42f3-b752-f2a3f8b101fc" />
